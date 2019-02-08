@@ -2,9 +2,3 @@
 Pyorient has very limited operations when it comes to executing commands on to the orientdb database Since the pyorient is only supported for Orient DB versions below 3.0, I decided to post my code up to create these commands and interfaces to make it easier to use orientdb through python.
 
 I extend the class from pyorient - OrientDB class and create queries and executors so that we can use them seamlessly in code..
-
-
-DEPENDENCIES : 
-
-orientdb - Version 2.x
-python - python 2.7
