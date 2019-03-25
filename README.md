@@ -5,9 +5,10 @@ I extend the class from pyorient - OrientDB class and create queries and executo
 
 A lot of work needs to go in to separating query makers and executors. Especially in the Pythonic way. I have just made this module for easier access in creating Graphs through orient DB and in python as the standard pyorient library does not contain the same out-of-the-box
 
---- Requirements --- 
+## --Requirements--- 
 
 Python 2.7
+
 OrientDB < 3.0
 
 Currently, pyorient does not support OrientDB above the 3.0 version.
